@@ -128,6 +128,7 @@ coverage report
 ## Usage
 
 We have tried to make this application (bot) as easy as possible. It's pretty self explanatory. You can use this bot to manage and track you daily expenses and not worry about loosing track of your expenses. As we also have given in a functionality of graphing and plotting and history of expenses, it becomes easy for the user to track expenses.
+[Learn how to add balance](https://github.com/r-kala/DollarBot/blob/main/docs/UserTutorialDocuments/AddBalanceTutorial.md)
 
 ## Configuration
 
