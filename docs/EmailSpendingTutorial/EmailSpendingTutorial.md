@@ -4,17 +4,17 @@
 
 ![](Aspose.Words.00f35197-2802-462c-9e95-0ffab17445cd.001.png)
 
-1. You will then be prompted to provide your email address.
+2. You will then be prompted to provide your email address.
 
    ![](Aspose.Words.00f35197-2802-462c-9e95-0ffab17445cd.002.png)
 
 
-1. After you provide your email address, you will receive a confirmation that your expense report has been mailed successfully.
+3. After you provide your email address, you will receive a confirmation that your expense report has been mailed successfully.
 
 ![](Aspose.Words.00f35197-2802-462c-9e95-0ffab17445cd.003.png)
 
 
-1. You can check your email for the file with the necessary expense data!!
+4. You can check your email for the file with the necessary expense data!!
 
 ![](Aspose.Words.00f35197-2802-462c-9e95-0ffab17445cd.004.png)
 
